@@ -1,0 +1,10 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 25.01.2016 02:22:51
+
+newmtl 01___Default
+map_Kd 4096_earth.jpg
+
+
+newmtl 02___Default
+map_Kd 4096_clouds.jpg
+

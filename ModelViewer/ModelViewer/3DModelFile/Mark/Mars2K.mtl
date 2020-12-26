@@ -1,0 +1,11 @@
+# Blender MTL File: 'Mars 2K.blend'
+# Material Count: 4
+
+newmtl Clouds
+map_Kd Clouds_2K.png
+
+newmtl Dust
+map_Kd  Dust_2K.png
+
+newmtl Mars
+map_Kd  Diffuse_2K.png
